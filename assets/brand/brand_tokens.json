@@ -1,0 +1,26 @@
+{
+  "name": "Jahhezly",
+  "owner": "Mohammed Yaman ALdous",
+  "colors": {
+    "primary": "#1A2671",
+    "accent": "#EA5521",
+    "positive": "#69B2A5",
+    "surface": "#F4F6FA",
+    "ink": "#172033",
+    "muted": "#667085"
+  },
+  "radius": {
+    "sm": 8,
+    "md": 12,
+    "lg": 16
+  },
+  "spacing": {
+    "unit": 4,
+    "card": 16,
+    "screen": 16
+  },
+  "typography": {
+    "latin": "Inter",
+    "arabic": "Noto Sans Arabic"
+  }
+}

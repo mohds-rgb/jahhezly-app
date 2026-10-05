@@ -1,0 +1,36 @@
+{
+  "currency": "SYP",
+  "merchants": [
+    {
+      "name": "Paris Market",
+      "city": "Daraa",
+      "district": "Basra",
+      "branches": [
+        {
+          "name": "Paris Market — Basra"
+        }
+      ],
+      "portfolio_note": "Owner-authorized real merchant name; no commercial partnership is claimed."
+    },
+    {
+      "name": "cham-center",
+      "city": "Damascus",
+      "district": "Kafr Sousa",
+      "branches": [
+        {
+          "name": "cham-center — Branch 01"
+        },
+        {
+          "name": "cham-center — Branch 02"
+        },
+        {
+          "name": "cham-center — Branch 03"
+        },
+        {
+          "name": "cham-center — Branch 04"
+        }
+      ],
+      "portfolio_note": "Owner-authorized real merchant name; branch-specific locations are intentionally not invented."
+    }
+  ]
+}

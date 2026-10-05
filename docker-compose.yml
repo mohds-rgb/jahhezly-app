@@ -1,0 +1,26 @@
+services:
+  postgres:
+    image: postgres:17
+    environment:
+      POSTGRES_DB: jahhezly
+      POSTGRES_USER: jahhezly
+      POSTGRES_PASSWORD: jahhezly-local-only
+    ports:
+      - "5432:5432"
+    volumes:
+      - jahhezly_pgdata:/var/lib/postgresql/data
+
+  api:
+    build: ./backend
+    environment:
+      JAHHEZLY_ENV: development
+      JAHHEZLY_DB_URL: postgresql+psycopg://jahhezly:jahhezly-local-only@postgres:5432/jahhezly
+      JAHHEZLY_JWT_SECRET: local-compose-secret-only
+      JAHHEZLY_ALLOW_GUEST_ORDERS: "true"
+    ports:
+      - "8000:8000"
+    depends_on:
+      - postgres
+
+volumes:
+  jahhezly_pgdata:

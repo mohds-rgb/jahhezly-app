@@ -1,0 +1,126 @@
+{
+  "currency": "SYP",
+  "data_quality": "Illustrative portfolio data — not live store inventory or pricing",
+  "products": [
+    {
+      "sku": "PM-001",
+      "merchant": "Paris Market",
+      "name_en": "Long Grain Rice 5kg",
+      "name_ar": "أرز طويل الحبة 5 كغ",
+      "category_en": "Pantry",
+      "category_ar": "مواد غذائية",
+      "price_syp": 28500,
+      "unit": "bag",
+      "description_en": "Long-grain rice for everyday cooking.",
+      "description_ar": "أرز طويل الحبة للاستخدام اليومي."
+    },
+    {
+      "sku": "PM-002",
+      "merchant": "Paris Market",
+      "name_en": "Sunflower Oil 1L",
+      "name_ar": "زيت دوار الشمس 1 لتر",
+      "category_en": "Pantry",
+      "category_ar": "مواد غذائية",
+      "price_syp": 18500,
+      "unit": "bottle",
+      "description_en": "Sunflower cooking oil.",
+      "description_ar": "زيت دوار الشمس للطبخ."
+    },
+    {
+      "sku": "PM-003",
+      "merchant": "Paris Market",
+      "name_en": "Laundry Detergent 2kg",
+      "name_ar": "مسحوق غسيل 2 كغ",
+      "category_en": "Household",
+      "category_ar": "منظفات منزلية",
+      "price_syp": 22000,
+      "unit": "pack",
+      "description_en": "Powder detergent for household laundry.",
+      "description_ar": "مسحوق للغسيل المنزلي."
+    },
+    {
+      "sku": "PM-004",
+      "merchant": "Paris Market",
+      "name_en": "Kitchen Towels 6 Pack",
+      "name_ar": "مناديل مطبخ 6 قطع",
+      "category_en": "Household",
+      "category_ar": "منزلية",
+      "price_syp": 12500,
+      "unit": "pack",
+      "description_en": "Multipack of kitchen paper towels.",
+      "description_ar": "عبوة من مناشف المطبخ الورقية."
+    },
+    {
+      "sku": "PM-005",
+      "merchant": "Paris Market",
+      "name_en": "Fresh Milk 1L",
+      "name_ar": "حليب طازج 1 لتر",
+      "category_en": "Dairy",
+      "category_ar": "ألبان",
+      "price_syp": 11000,
+      "unit": "bottle",
+      "description_en": "Chilled fresh milk.",
+      "description_ar": "حليب طازج مبرد."
+    },
+    {
+      "sku": "CH-001",
+      "merchant": "cham-center",
+      "name_en": "Electric Kettle 1.7L",
+      "name_ar": "غلاية كهربائية 1.7 لتر",
+      "category_en": "Home Appliances",
+      "category_ar": "أجهزة منزلية",
+      "price_syp": 145000,
+      "unit": "piece",
+      "description_en": "1.7L electric kettle for home use.",
+      "description_ar": "غلاية كهربائية 1.7 لتر للاستخدام المنزلي."
+    },
+    {
+      "sku": "CH-002",
+      "merchant": "cham-center",
+      "name_en": "LED Bulb 12W",
+      "name_ar": "مصباح LED 12 واط",
+      "category_en": "Home",
+      "category_ar": "منزلية",
+      "price_syp": 8500,
+      "unit": "piece",
+      "description_en": "Energy-saving LED bulb.",
+      "description_ar": "مصباح LED موفر للطاقة."
+    },
+    {
+      "sku": "CH-003",
+      "merchant": "cham-center",
+      "name_en": "Shampoo 400ml",
+      "name_ar": "شامبو 400 مل",
+      "category_en": "Personal Care",
+      "category_ar": "عناية شخصية",
+      "price_syp": 16500,
+      "unit": "bottle",
+      "description_en": "Everyday shampoo.",
+      "description_ar": "شامبو للاستخدام اليومي."
+    },
+    {
+      "sku": "CH-004",
+      "merchant": "cham-center",
+      "name_en": "Paper Towels 6 Rolls",
+      "name_ar": "مناديل ورقية 6 رولات",
+      "category_en": "Household",
+      "category_ar": "منزلية",
+      "price_syp": 15500,
+      "unit": "pack",
+      "description_en": "Six-roll household paper towel pack.",
+      "description_ar": "عبوة مناديل ورقية منزلية من 6 رولات."
+    },
+    {
+      "sku": "CH-005",
+      "merchant": "cham-center",
+      "name_en": "Storage Box 20L",
+      "name_ar": "صندوق تخزين 20 لتر",
+      "category_en": "Home",
+      "category_ar": "منزلية",
+      "price_syp": 27000,
+      "unit": "piece",
+      "description_en": "20L household storage box.",
+      "description_ar": "صندوق تخزين منزلي سعة 20 لتر."
+    }
+  ]
+}
