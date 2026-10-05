@@ -2,6 +2,16 @@
 
 ![Jahhezly app icon](assets/brand/jahhezly-icon-square.png)
 
+> **Proprietary Project — All Rights Reserved**
+>
+> © 2026 Mohammed Yaman ALdous.
+>
+> Jahhezly is publicly available for portfolio review, technical
+> evaluation, and recruitment assessment. The original Jahhezly
+> materials are not released under an open-source license and may not
+> be reused, redistributed, relicensed, or commercially exploited
+> without prior permission from the copyright holder.
+
 **Offline-first retail Click & Collect · Daily Catalog · Order Preparation · Pickup**
 
 > **Portfolio release candidate:** `0.2.0`
