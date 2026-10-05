@@ -1,24 +1,64 @@
 JAHHEZLY — PROPRIETARY SOFTWARE LICENSE
 
-Copyright (c) 2026 Mohammed Yaman ALdous. All rights reserved.
+Copyright (c) 2026 Mohammed Yaman ALdous
+All rights reserved.
 
-1. Ownership
-The Jahhezly application source code, documentation written specifically for Jahhezly, original project assets, project brand identity, and original design materials in this repository are owned by Mohammed Yaman ALdous, unless a file states otherwise.
+1. OWNERSHIP
 
-2. Permission
-Permission is granted to prospective employers, hiring managers, reviewers, and other evaluators to view and evaluate this repository for portfolio and recruitment purposes.
+Jahhezly and the original materials contained in this repository are
+the proprietary work of Mohammed Yaman ALdous, except for third-party
+software, libraries, fonts, frameworks, and other materials that are
+subject to their own licenses.
 
-3. Restrictions
-Without prior written permission from Mohammed Yaman ALdous, you may not:
-- copy, redistribute, sublicense, or sell the Jahhezly source code or original assets;
-- create derivative commercial products from Jahhezly;
-- remove copyright or ownership notices;
-- represent Jahhezly as your own work.
+Original Jahhezly materials include, where applicable:
 
-4. Third-party components
-Third-party dependencies remain subject to their own licenses. This license applies to the original Jahhezly materials owned by Mohammed Yaman ALdous, not to separately licensed third-party software.
+- Original source code
+- Original architecture and domain design
+- Original documentation
+- Original product specifications
+- Original UI/UX designs
+- Original visual identity
+- Original app icon and brand assets
+- Original configuration and project-specific implementation
 
-5. No warranty
-Jahhezly is a portfolio engineering project and is provided without warranties of any kind.
+2. RESTRICTIONS
 
-For permission requests, contact: moydous@gmail.com
+Without prior written permission from Mohammed Yaman ALdous, no person
+or organization may:
+
+- Copy or redistribute the original Jahhezly materials
+- Modify and republish the original Jahhezly materials
+- Sell or commercially exploit the original Jahhezly materials
+- Incorporate substantial portions of the original Jahhezly materials
+  into another product or service
+- Re-license the original Jahhezly materials
+- Remove or alter copyright or ownership notices
+- Represent the original Jahhezly materials as their own work
+
+3. PORTFOLIO REVIEW PERMISSION
+
+This repository is publicly available for portfolio review, technical
+evaluation, recruitment assessment, and educational inspection.
+
+Viewing the repository for these purposes does not grant a general
+license to reuse, redistribute, modify, sell, or commercially exploit
+the original Jahhezly materials.
+
+4. THIRD-PARTY MATERIALS
+
+Third-party dependencies and materials remain governed by their
+respective licenses. This license does not alter or replace those
+licenses.
+
+5. NO OPEN-SOURCE LICENSE
+
+This project is not released under the MIT, Apache-2.0, GPL, BSD,
+or any other general-purpose open-source license.
+
+6. CONTACT
+
+For permissions regarding reuse, redistribution, modification,
+commercial exploitation, or licensing of original Jahhezly materials:
+
+Mohammed Yaman ALdous
+moydous@gmail.com
