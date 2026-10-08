@@ -8,4 +8,4 @@ RUN pip install --no-cache-dir . && addgroup --system jahhezly && adduser --syst
 RUN chown -R jahhezly:jahhezly /app
 USER jahhezly
 EXPOSE 8000
-CMD ["/bin/sh","-c","alembic upgrade head && exec uvicorn app.main:app --host 0.0.0.0 --port ${PORT:-8000} --proxy-headers --forwarded-allow-ips *"]
+CMD ["sh", "-c", "alembic upgrade head && exec uvicorn app.main:app --host 0.0.0.0 --port ${PORT:-8080}"]
